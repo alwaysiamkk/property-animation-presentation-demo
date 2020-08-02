@@ -1,3 +1,4 @@
+#Android Property Animations
 This is a Property Animation demo project in Android
 Demostrates different simple Property animations using Native Android viz Slide, Scale, Rotate, etc. Clone this repository to know how this works
 
